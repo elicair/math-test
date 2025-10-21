@@ -1,5 +1,4 @@
 # math-test
-math test
 <!-- Start of Test -->
 <!DOCTYPE html>
 <html lang="en">
