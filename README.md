@@ -40,4 +40,11 @@
 <h1>Solve the Problem!</h1>
 <p>A farmer has 20 chickens and 10 cows. Each chicken has 2 legs, and each cow has 4 legs. If the farmer also has 5 pigs, and each pig has 4 legs, how many legs are there in total on the farm?</p>
 <form action="/submit_answer" method="post"> <label for="user_answer">Your Answer:</label><br>
-</html>
+
+ <h3>Question 5: witch math synbole is used to add two numbers?</h3>
+  <input type="radio" id="q1a" name="question5" value="&plus;">
+  <label for="q1a">plus</label><br>
+  <input type="radio" id="q1b" name="question5" value="&mn;">
+  <label for="q1b">minus</label><br>
+  <input type="radio" id="q1c" name="question5" value="&times;">
+  <label for="q1c">times</label><br>
