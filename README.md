@@ -36,8 +36,6 @@
   <input type="radio" id="q1c" name="question5" value="&times;">
   <label for="q1c">times</label><br>
 
-
-
 <h1>Solve this word Problem.</h1>
 <p>if there is a forest with 20 trees and one tree falls how many trees are left standing?</p>
 <label for="answer">answer:</label>
