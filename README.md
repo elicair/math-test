@@ -27,14 +27,14 @@
   <label for="q3c">Pacific Ocean</label><br>
 
   <br>
-  <input type="submit" value="Submit Answers">
+<input type="submit" value="Submit Answers">
 </form>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Word Problem</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Word Problem</title>
 </head>
 <body>
 <h1>Solve the Problem!</h1>
