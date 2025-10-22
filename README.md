@@ -1,4 +1,6 @@
 # math-test
+
+<!-- start test-->
 <label for="userName">Name:</label>
 <input type="text" id="userName" name="userName" placeholder="Enter your name" required>
 <form>
@@ -26,6 +28,14 @@
   <input type="radio" id="q3c" name="question3" value="Pacific Ocean">
   <label for="q3c">Pacific Ocean</label><br>
 
+<h3>Question 5: witch math synbole is used to add two numbers?</h3>
+  <input type="radio" id="q1a" name="question5" value="&plus;">
+  <label for="q1a">plus</label><br>
+  <input type="radio" id="q1b" name="question5" value="&mn;">
+  <label for="q1b">minus</label><br>
+  <input type="radio" id="q1c" name="question5" value="&times;">
+  <label for="q1c">times</label><br>
+
   <br>
 <input type="submit" value="Submit Answers">
 </form>
@@ -41,10 +51,6 @@
 <p>A farmer has 20 chickens and 10 cows. Each chicken has 2 legs, and each cow has 4 legs. If the farmer also has 5 pigs, and each pig has 4 legs, how many legs are there in total on the farm?</p>
 <form action="/submit_answer" method="post"> <label for="user_answer">Your Answer:</label><br>
 
- <h3>Question 5: witch math synbole is used to add two numbers?</h3>
-  <input type="radio" id="q1a" name="question5" value="&plus;">
-  <label for="q1a">plus</label><br>
-  <input type="radio" id="q1b" name="question5" value="&mn;">
-  <label for="q1b">minus</label><br>
-  <input type="radio" id="q1c" name="question5" value="&times;">
-  <label for="q1c">times</label><br>
+ 
+<button type="submit">Submit Test</button>
+<!--end test-->
