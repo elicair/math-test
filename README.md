@@ -29,3 +29,24 @@
   <br>
   <input type="submit" value="Submit Answers">
 </form>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Problem</title>
+</head>
+<body>
+
+    <h1>Solve the Problem!</h1>
+
+    <p>A farmer has 20 chickens and 10 cows. Each chicken has 2 legs, and each cow has 4 legs. If the farmer also has 5 pigs, and each pig has 4 legs, how many legs are there in total on the farm?</p>
+
+    <form action="/submit_answer" method="post">
+        <label for="user_answer">Your Answer:</label><br>
+        <textarea id="user_answer" name="user_answer" rows="10" cols="50" placeholder="Type your detailed answer here..."></textarea><br><br>
+        <input type="submit" value="Submit Answer">
+    </form>
+
+</body>
+</html>
