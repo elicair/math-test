@@ -20,7 +20,7 @@
   <input type="radio" id="q2c" name="question2" value="2">
   <label for="q2c">2</label><br>
 
-  <h3>Question 3: Which of the followimg numberes is largest</h3>
+  <h3>Question 3: Which of the followimg numberes is largest?</h3>
   <input type="radio" id="q3a" name="question3" value="100">
   <label for="q3a">100</label><br>
   <input type="radio" id="q3b" name="question3" value="102">
@@ -42,7 +42,7 @@
 
 <h1>Solve this word Problem.</h1>
 <p>A farmer has 20 chickens and 10 cows. Each chicken has 2 legs, and each cow has 4 legs. If the farmer also has 5 pigs, and each pig has 4 legs, how many legs are there in total on the farm?</p>
-<label for="answer">Name:</label>
+<label for="answer">answer:</label>
 <input type="text" id="answer" name="answer" placeholder="answer" required>
 <br/>
 <form>
